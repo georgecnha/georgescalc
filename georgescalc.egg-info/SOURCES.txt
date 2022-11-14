@@ -1,0 +1,10 @@
+README.md
+setup.py
+georgescalc/__init__.py
+georgescalc/equations.py
+georgescalc/functions.py
+georgescalc/total.py
+georgescalc.egg-info/PKG-INFO
+georgescalc.egg-info/SOURCES.txt
+georgescalc.egg-info/dependency_links.txt
+georgescalc.egg-info/top_level.txt

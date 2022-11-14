@@ -20,7 +20,7 @@ O módulo georges-calc.functions contém:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install georges_calc
 
 ```bash
-pip install georgescalc
+pip install georgescalc==0.0.1
 ```
 
 ## Usage

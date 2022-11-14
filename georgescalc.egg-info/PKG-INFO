@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: georgescalc
+Version: 0.0.1
+Summary: Mix of functions
+Home-page: https://github.com/georgecnha/georges_calc
+Author: George Pontes da Cunha
+Author-email: george.pontes02@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# georgescalc
+
+Um misto de funÃ§Ãµes matemÃ¡ticas.
+ ### georgescalc.equations
+O mÃ³dulo georges-calc.equations contÃ©m:
+* A funÃ§Ã£o bhaskara(a,b,c): Que retorna o valor de X se houver raÃ­zes reais e None, se nÃ£o houver;
+* A funÃ§Ã£o delta(a,b,c), que retorna o valor de delta. 
+
+### georgescalc.functions
+O mÃ³dulo georges-calc.functions contÃ©m:
+* A funÃ§Ã£o fibonacci(n_termos), que retorna uma lista de termos da sequÃªncia de Fibonacci. 
+	
+### georgescalc.total
+O mÃ³dulo georges-calc.functions contÃ©m:
+* A funÃ§Ã£o total_sum(num), que retorna a soma dos nÃºmeros fornecidos como parÃ¢metro.
+* A funÃ§Ã£o total_product(num), que retorna o produto dos nÃºmeros fornecidos como parÃ¢metro. 
+
+## InstalaÃ§Ã£o
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install georges_calc
+
+```bash
+pip install georgescalc
+```
+
+## Usage
+
+```python
+from georgescalc import functions
+functions.fibonacci(7)
+```
+
+## Author
+George Pontes da Cunha
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
